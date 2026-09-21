@@ -2,6 +2,10 @@
 
 ### Desenvolvedor Full Stack | JavaScript • Node.js • PostgreSQL
 
+<a href="https://www.linkedin.com/in/wellington-diasfernandes/">
+  <img src="https://img.shields.io/badge/LinkedIn-Wellington%20Fernandes-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+
 Desenvolvo aplicações web voltadas à solução de problemas reais, trabalhando desde o levantamento das necessidades e modelagem das regras de negócio até o desenvolvimento do backend, banco de dados e interface.
 
 Atualmente estou construindo e documentando projetos próprios para consolidar meu portfólio profissional e demonstrar, na prática, minha evolução no desenvolvimento de software.
@@ -74,5 +78,5 @@ Novos projetos e estudos de caso serão adicionados ao portfólio gradualmente.
 
 ## 📫 Contato
 
-- LinkedIn: [adicionar link](https://www.linkedin.com/in/wellington-diasfernandes/)
-- GitHub: @well-snipper
+- LinkedIn: [Wellington Fernandes](https://www.linkedin.com/in/wellington-diasfernandes/)
+- GitHub: [@well-snipper](https://github.com/well-snipper)
